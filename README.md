@@ -2,7 +2,7 @@
 
 Submitted by: **Hassan AlJazaeri**
 
-**MyStory and ** is an app that introduces ... [TODO] 
+**MyStory and *DinoGuesser* is an app that introduces ... [TODO] 
 
 Time spent: **20** hours spent in total
 
